@@ -3,4 +3,8 @@ Git is free software distributed under GPL.
 Git has a mutable index called stage.
 Git tracks change of file.
 test merge22222222222
-add a new feature
+<<<<<<< HEAD
+add a new feature and update code
+=======
+upadte code
+>>>>>>> c9c85b666039a0e73a820a231b000f992c39eadb
